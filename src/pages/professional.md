@@ -5,7 +5,7 @@ description: Experience, education, and skills.
 intro: How I Work and What I've Learned
 ---
 
-<a href="/resume.pdf" target="_blank" rel="noopener">Obligatory Resume Insert (PDF)</a>
+<a href="/resume.pdf" target="_blank" rel="noopener">My Resume! (PDF)</a>
 
 ## Industry Experience
 
@@ -78,7 +78,7 @@ Thanks to my studies, I got a 1450 on my SAT and got an AP® Scholar with Honor 
 <details>
 <summary> Liberty University - B.S. Mechanical Engineering</summary>
 
-#### Graduating May 2028 (Lord Willing)
+#### Graduating May 2028 (Expected)
 
 I'm now in my junior year of my Mechanical Engineering degree at Liberty (Go Flames). It's been a lot of late nights, study sessions, and adjustment to new and better study habits. I am so unbelievably lucky to be in the position to learn and grow here, and my friends in and outside the school of engineering have been blessings beyond anything I could deserve.
 
@@ -110,7 +110,7 @@ In-progress (yes I am tired, why do you ask?):
 
 I've also taken a few other classes that are less associated with my degree, but which have nontheless been very interesting, in particular Theology Survey I and II.
 
-Academics have been challenging in new and exciting ways each semester. All of Freshman and sophomore year, I was a member of the Honors Scholars program, at the end of which I got to work on my own petition project studying the structural properties of 3D prints and how they change with adjustments to settings and filament selection. It's a long read, but my [Report](/Honors-Petition-Final-Report.docx) and [Excel Data File](/Honors-Petition--3D-printer-traits-Data-Analysis.xlsx) are here if you want to take a look.
+Academics have been challenging in new and exciting ways each semester. Throughout my freshman and sophomore years, I was a member of the Honors Scholars program, at the end of which I got to work on my own research project studying the structural properties of 3D prints and how they change with adjustments to settings and filament selection. It's a long read, but my [Report](/Honors-Petition-Final-Report.docx) and [Excel Data File](/Honors-Petition--3D-printer-traits-Data-Analysis.xlsx) are here if you want to take a look.
 
 </details>
 
