@@ -11,7 +11,7 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 const { title, summary, image, date, tags } = entry.data;
-const meta = [String(date.getUTCFullYear()), ...tags].join(', ');
+const meta = [String(date.getUTCFullYear()), ...visibleTags(tags)].join(', ');
 ---
 
 <Base title={title} description={summary}>
